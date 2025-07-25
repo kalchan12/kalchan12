@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Computer Science and Cybersecurity(self-learning)<br>🎯 Goals: i will get back to you someday<br></p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Computer Science at ASTU and Cybersecurity(self-learning)<br>🎯 Goals: i will get back to you someday<br></p>
 
 ###
 
