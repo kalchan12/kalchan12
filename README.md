@@ -24,6 +24,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix" />
 </p>
 
+#Try Hack Me
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3617126" style='border:none;'></iframe>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
