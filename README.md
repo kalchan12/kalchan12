@@ -27,22 +27,23 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalchan12&theme=chartreuse-dark&show_icons=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kalchan12&show_icons=true&theme=chartreuse-dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalchan12&theme=chartreuse-dark&layout=compact" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kalchan12&layout=compact&theme=chartreuse-dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kalchan12&theme=chartreuse-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalchan12&theme=chartreuse-dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kalchan12&theme=matrix&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kalchan12&theme=matrix&margin-w=15&no-bg=true" />
 </p>
+
+
 
 ---
 
